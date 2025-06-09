@@ -139,3 +139,55 @@ a.info-box{
 #info-box-full h3{
     text-align : center;
 }
+/*=============WEATHER========*/
+
+img.info-box-weather-icon{
+    height: 30px;
+    width: 30px !important;
+    margin: 10px;
+    float: left;
+
+}
+h1.info-box-weather-icon{
+    font-size: 65px;
+    font-weight: 200;
+    padding: 0;
+    margin: 0;
+}
+
+table{
+    width: 100%;
+}
+
+td{
+    border-top: 1px solid #131313;
+}
+
+/*=============FORM========*/
+
+input{
+    width: 100%;
+    height: 25px;
+    margin: 12px 0;
+    border: 1px solid #929292;
+}
+
+textarea{
+    width: 100%;
+    height:25px;
+    margin: 12px 0;
+    border: 1px solid #929292;
+}
+
+.button{
+    display : block;
+    width: 100%;
+    background-color: forestgreen;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 12px 0;
+    padding: 8px 0;
+}
